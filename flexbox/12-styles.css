@@ -733,7 +733,7 @@ html {
         z-index: 2;
       }
       .main-article {
-        padding: 5rem;
+        padding: 5rem 0;
       }
 
       /* Post
@@ -750,4 +750,4 @@ html {
         order: -1;
         min-width: 20%;
     }
-    
+
